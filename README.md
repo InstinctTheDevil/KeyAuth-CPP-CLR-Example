@@ -31,3 +31,5 @@ Then open the solution in Visual Studio (or your preferred C++ IDE)
 and change your KeyAuth credentials in pch.h.
 
 Now you're ready to compile!
+
+[Alternatively you may also watch this video, showcasing how to set it up](https://streamable.com/k5025p)
